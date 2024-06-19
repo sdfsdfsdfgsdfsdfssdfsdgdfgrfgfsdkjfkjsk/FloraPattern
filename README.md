@@ -1,6 +1,7 @@
 # FloraPattern
 Beautiful pattern using hand
 
+# code
 git clone https://github.com/At0m-txt/FloraPattern
 cd FloraPattern(Linux) dir FloraPattern(window)
 pip install -r requirements.txt
